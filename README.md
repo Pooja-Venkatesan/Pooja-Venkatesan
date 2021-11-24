@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pooja-Venkatesan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning frontend.
 
 
 <!---
